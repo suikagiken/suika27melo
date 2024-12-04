@@ -2,12 +2,12 @@
 (English Follows Japanese)
 
 ## 概要
-![suika27melo1](img/suika27melo_1.jpg)
-![suika27melo2](img/suika27melo_2.jpg)
+![suika27melo1](https://i.imgur.com/iFz3c1U.jpg)
+![suika27melo2](https://i.imgur.com/xR7KpVR.jpg)
 
 suika27meloは2オクターブのピアノ鍵盤型マクロキーパッドです。
 通常のマクロキーパッドとしても使えるほか、MIDIキーボードとしてDAWソフトの入力や演奏に使用できます。
-キーアサインの変更にはVIA/REMAPに対応していますので、組み立て後も簡単にカスタマイズ可能です。
+VIA/REMAPに対応していますので、組み立て後すぐにキーアサインのカスタマイズが可能です。
 
 * 制作 : すいか技研 （Website: https://suikagiken.net GitHub: [suikagiken](https://github.com/suikagiken) ）
 * 販売 : すいか技研の[booth](https://suikagiken.booth.pm/)にて販売予定です
@@ -22,7 +22,6 @@ suika27meloは2オクターブのピアノ鍵盤型マクロキーパッドで�
 
 suika27melo is a 2-octave piano shaped macro keypad.
 You can use it as a normal macro keypad, or use it as a MIDI keyboard for DAW software input and musical performance.
-It supports VIA/REMAP for changing key assignments, so it can be easily customized even after assembly.
 
 * Keyboard Maintainer: [suikagiken](https://github.com/suikagiken)
 * Hardware Availability: Available at [booth](https://suikagiken.booth.pm/).
@@ -44,5 +43,3 @@ Enter the bootloader in 3 ways:
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (the top left key) and plug in the keyboard
 * **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
-
-
