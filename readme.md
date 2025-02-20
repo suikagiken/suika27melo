@@ -2,8 +2,8 @@
 (English Follows Japanese)
 
 ## 概要
-![suika27melo1](https://i.imgur.com/iFz3c1U.jpg)
-![suika27melo2](https://i.imgur.com/xR7KpVR.jpg)
+![suika27melo1](img/suika27melo_1.jpg)
+![suika27melo2](img/suika27melo_2.jpg)
 
 suika27meloは2オクターブのピアノ鍵盤型マクロキーパッドです。
 通常のマクロキーパッドとしても使えるほか、MIDIキーボードとしてDAWソフトの入力や演奏に使用できます。
