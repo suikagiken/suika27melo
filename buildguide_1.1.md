@@ -48,6 +48,15 @@
 * 精密ドライバー
   * M2のねじが止められるNo.0のプラスドライバーが必要です
     * 精密ドライバーセット （[秋月電子](https://akizukidenshi.com/catalog/g/g118343/)）
+* ピンセット
+  * ねじの取り付けにあると便利です。
+    * 精密ピンセット （[秋月電子](https://akizukidenshi.com/catalog/g/g102541/)）
+   
+#### ハンダ付けが初めてで不安な方へ
+ハンダ付けが初めての方はぜひYouTube等で動画を参考にされると良いかと思います。
+* 白光さん「[【HAKKO e-shop】 はんだ付け手順](https://youtu.be/D-R21fMsS5g?si=qWz6yB6DfedyTPWI)」
+* ふじむぅスタジオさん「[【完全保存版】はんだ付け手順・コツ・修正方法](https://youtu.be/yxCcFsOQXJg?si=OmmiBvLsMTNdOj_D)」
+* イチケンさん「[【永久保存版】はんだ付けのやり方を解説します](https://youtu.be/dQ7AUjb1tkA?si=b3HmkqtQHa0nSiVG)」
 
 ## 組み立て
 
